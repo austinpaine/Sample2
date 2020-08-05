@@ -33,3 +33,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.small-result {
+  background-color: lightgreen;
+}
+
+.medium-result {
+  background-color: lightblue;
+}
+
+.large-result {
+  background-color: lightsalmon;
+}
+
+.negative-result {
+  background-color: red;
+  color: white;
+}
